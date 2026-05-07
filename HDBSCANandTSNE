@@ -1,0 +1,2 @@
+This file contains the code for HDBSCAN and t-SNE visulization for this project. The code creates its own file within google drive. 
+To ensure the code runs, place the newsroom analysis ready file in generated "CSDS 312 Project File - Shared' and change the FILE_ID to whatever address is allocated to t
